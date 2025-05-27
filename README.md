@@ -1,2 +1,0 @@
-# Integrales-sencillas
-calculadroa sencilla 
